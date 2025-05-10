@@ -1,0 +1,29 @@
+{
+    "CarAgentBehavior": {
+        "checkpoints": [
+            {
+                "steps": 28928,
+                "file_path": "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-28928.onnx",
+                "reward": null,
+                "creation_time": 1746883139.8466887,
+                "auxillary_file_paths": [
+                    "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-28928.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 28928,
+            "file_path": "results\\CarParking_Run_0\\CarAgentBehavior.onnx",
+            "reward": null,
+            "creation_time": 1746883139.8466887,
+            "auxillary_file_paths": [
+                "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-28928.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
