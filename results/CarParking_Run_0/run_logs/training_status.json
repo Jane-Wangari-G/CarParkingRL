@@ -2,22 +2,40 @@
     "CarAgentBehavior": {
         "checkpoints": [
             {
-                "steps": 28928,
-                "file_path": "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-28928.onnx",
-                "reward": null,
-                "creation_time": 1746883139.8466887,
+                "steps": 499942,
+                "file_path": "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-499942.onnx",
+                "reward": 15.166393220424652,
+                "creation_time": 1746912835.8290205,
                 "auxillary_file_paths": [
-                    "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-28928.pt"
+                    "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-499942.pt"
+                ]
+            },
+            {
+                "steps": 999932,
+                "file_path": "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-999932.onnx",
+                "reward": 16.743786931037903,
+                "creation_time": 1746919444.880415,
+                "auxillary_file_paths": [
+                    "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-999932.pt"
+                ]
+            },
+            {
+                "steps": 1262051,
+                "file_path": "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-1262051.onnx",
+                "reward": 15.522197296222052,
+                "creation_time": 1746923005.9249723,
+                "auxillary_file_paths": [
+                    "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-1262051.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 28928,
+            "steps": 1262051,
             "file_path": "results\\CarParking_Run_0\\CarAgentBehavior.onnx",
-            "reward": null,
-            "creation_time": 1746883139.8466887,
+            "reward": 15.522197296222052,
+            "creation_time": 1746923005.9249723,
             "auxillary_file_paths": [
-                "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-28928.pt"
+                "results\\CarParking_Run_0\\CarAgentBehavior\\CarAgentBehavior-1262051.pt"
             ]
         }
     },
